@@ -27,8 +27,8 @@ Project developed with [Esp32](https://www.espressif.com/), [Arduino](https://ww
 - Protoboard (any size preference)
 - HG7881CP (h-bridge)
 - TCRT5000 (infrared line follower sensor) - Quantity: **2**
-- Female-female dupont wire - Quantity:**6**
-- Female-male dupont wire - Quantity:**8**
+- Female-female dupont wire - Quantity: **6**
+- Female-male dupont wire - Quantity: **8**
 - USB A to micro USB cable (for Esp32)
 - 2WD Chassis:
 

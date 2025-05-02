@@ -27,8 +27,8 @@ Proyecto desarrollado con [Esp32](https://www.espressif.com/), [Arduino](https:/
 - Placa de pruebas (tamaño de preferencia)
 - HG7881CP (puente h)
 - TCRT5000 (sensor infrarrojo seguidor de linea) - Cantidad: **2**
-- Cable dupont hembra-hembra - Cantidad:**6**
-- Cable dupont hembra-macho - Cantidad:**8**
+- Cable dupont hembra-hembra - Cantidad: **6**
+- Cable dupont hembra-macho - Cantidad: **8**
 - Cable de USB A a micro USB (para Esp32)
 - Chasis 2WD:
 
